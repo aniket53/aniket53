@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aniket Khot</h1>
 <h3 align="center">A Computer Science Engineering Student from India :)</h3>
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working on **Android Application Development**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Android App Dev (Kotlin)**
 
-- 👯 I’m looking to collaborate on **Machine Learning and Artificial Intelligence**
+- 👯 I’m looking to collaborate on **Android Application Development**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/aniket53)
 
-- 💬 Ask me about **Supervised Machine Learning Algorithms**
+- 💬 Ask me about **Java, Android and Kotlin**
 
 - 📫 How to reach me **akhot610@gmail.com**
 
